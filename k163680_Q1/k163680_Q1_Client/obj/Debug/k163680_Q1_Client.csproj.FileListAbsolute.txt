@@ -1,0 +1,12 @@
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\Project\k163680_Q1\k163680_Q1_Client\bin\Debug\k163680_Q1_Client.exe.config
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\Project\k163680_Q1\k163680_Q1_Client\bin\Debug\k163680_Q1_Client.exe
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\Project\k163680_Q1\k163680_Q1_Client\bin\Debug\k163680_Q1_Client.pdb
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\Project\k163680_Q1\k163680_Q1_Client\obj\Debug\k163680_Q1_Client.exe
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\Project\k163680_Q1\k163680_Q1_Client\obj\Debug\k163680_Q1_Client.pdb
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\Project\k163680_Q1\k163680_Q1_Client\obj\Debug\k163680_Q1_Client.csprojAssemblyReference.cache
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Assignment02\k163680_Q1\k163680_Q1_Client\bin\Debug\k163680_Q1_Client.exe.config
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Assignment02\k163680_Q1\k163680_Q1_Client\bin\Debug\k163680_Q1_Client.exe
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Assignment02\k163680_Q1\k163680_Q1_Client\bin\Debug\k163680_Q1_Client.pdb
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Assignment02\k163680_Q1\k163680_Q1_Client\obj\Debug\k163680_Q1_Client.csprojAssemblyReference.cache
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Assignment02\k163680_Q1\k163680_Q1_Client\obj\Debug\k163680_Q1_Client.exe
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Assignment02\k163680_Q1\k163680_Q1_Client\obj\Debug\k163680_Q1_Client.pdb
